@@ -1,0 +1,12 @@
+class Subtraction
+{
+    int a=10;
+    int b=20;
+    int c=30;
+   sub=a-b-c;
+
+   public static void main(String args[])
+   {
+    System.out.println(sub);
+   }
+}
